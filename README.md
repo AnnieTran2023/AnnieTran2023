@@ -1,4 +1,4 @@
-[<img src="wallpaper.jpeg" width="100%">](https://annietran2023.io)
+
 
 <h1 align="center">Hi 👋, I'm Annie Tran</h1>
 <h3 align="center">A passionate coder</h3>
