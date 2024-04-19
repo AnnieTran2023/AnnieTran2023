@@ -7,21 +7,23 @@
 
 <img align="right" alt="Coding" width="400" src="girl-code.png">
 
-- 🔭 I’m currently working on **my Java Student Data Management project**
+- 👨‍💻 I'm currently a student at Haaga-helia UAS, majoring in **Software Development**
+  
+- 🔭 I’m working on **my Java Student Data Management project**
 
 - 🌱 I’m currently learning **Spring Boot, Django**
 
-- 👯 I’m looking to collaborate on **full-stack projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AnnieTran2023?tab=repositories](https://github.com/AnnieTran2023?tab=repositories)
+- 👯 I’m looking to collaborate on **Full-stack projects**
 
 - 💬 Ask me about **Javascript, React, Python, Java, SQL**
 
 - 📫 How to reach me **tranthilananh105@gmail.com**
-- ⚡ Fun fact **I think that I am Funny**
+  
+- ⚡ Fun fact about me ? **I think that I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p></p>
 <a href="https://linkedin.com/in/annietran00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annietran00" height="30" width="40" /></a>
 </p>
 
@@ -30,6 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annietran2023&show_icons=true&locale=en&layout=compact" alt="annietran2023" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annietran2023&" alt="annietran2023" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=annietran2023&" alt="annietran2023" /></p>
 
 
