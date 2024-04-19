@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annietran2023&" alt="annietran2023" /></p>
 
-![image](https://github.com/AnnieTran2023/AnnieTran2023/assets/132701766/6c18f127-90ce-463e-9b44-67690daed84b)
+
