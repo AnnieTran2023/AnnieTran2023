@@ -1,13 +1,12 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://annietran2023.io)
+[![MasterHead][<img src="wallpaper.jpeg" width="100%">](https://annietran2023.io)
 
 <h1 align="center">Hi 👋, I'm Annie Tran</h1>
 <h3 align="center">A passionate coder</h3>
 
-<p align="left"> <img src="girl-code.png" alt="annietran2023"/> </p>
+<img align="right" alt="Coding" width="400" src="girl-code.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="annietran2023" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annietran2023" alt="annietran2023" /></a> </p>
-
-- 🔭 I’m currently working on **Java Student Data Management**
+- 🔭 I’m currently working on **my Java Student Data Management project**
 
 - 🌱 I’m currently learning **Spring Boot, Django**
 
@@ -18,6 +17,7 @@
 - 💬 Ask me about **Javascript, React, Python, Java, SQL**
 
 - 📫 How to reach me **tranthilananh105@gmail.com**
+- ⚡ Fun fact **I think that I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
