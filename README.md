@@ -5,7 +5,7 @@
 <h1 align="center"></h1>
 <h3 align="center">Hi 👋, I'm Annie Tran</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="girl-code.png">
+<img align="right" alt="Coding" width="300" height="300" src="girl-code.png">
 
 - 👨‍💻 I'm currently a student at Haaga-helia UAS, majoring in **Software Development**
   
