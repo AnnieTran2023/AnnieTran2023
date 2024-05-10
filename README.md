@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **tranthilananh105@gmail.com**
   
-- ⚡ Fun fact about me ? **I think that I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p></p>
