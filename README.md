@@ -15,7 +15,7 @@
 
 - 👨‍💻 I'm currently a student at Haaga-helia UAS, majoring in **Software Development**
   
-- 🔭 I’m working on **my BookDatabase-Springboot**
+- 🔭 I’m working on my **E-commerce back-end project**
 
 - 🌱 I’m currently learning **Spring Boot, Django**
 
