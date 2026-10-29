@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="300" height="300" src="girl-code.png">
 
-- 👨‍💻 I'm currently a student at Haaga-helia UAS, majoring in **Software Development**
+- 👨‍💻 I'm a Business IT graduate at Haaga-helia UAS, majoring in **Software Development**
   
 - 🔭 I’m working on my **E-commerce back-end project**
 
